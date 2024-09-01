@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "lambda:item/tools/hellfire_wing"
+	},
+	"display-no": {
+		"thirdperson_righthand": {
+			"rotation": [3, -75, -85],
+			"translation": [-0.25, -9, 9.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [3, 105, 95],
+			"translation": [-0.25, -9, 9.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -75, 0],
+			"translation": [4, 1.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 105, 0],
+			"translation": [4, 1.75, 0]
+		},
+		"ground": {
+			"translation": [0, 3, 0]
+		}
+	}
+}

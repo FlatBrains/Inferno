@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/tipped_arrow_head",
+		"layer1": "item/tipped_arrow_base"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:wand/healing/0"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:wand/healing/1"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:wand/healing/2"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:wand/healing/3"},
+	{"predicate": {"custom_model_data":5}, "model": "lambda:wand/healing/4"}
+]
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/iron_ingot"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:material/tungsten"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:material/refined_tungsten"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:material/drill_core"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:materials/lust/galena"},
+	{"predicate": {"custom_model_data":5}, "model": "lambda:materials/lust/c_galena"}
+]
+}

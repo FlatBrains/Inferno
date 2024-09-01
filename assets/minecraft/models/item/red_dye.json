@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/red_dye"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:ui/rank_apprentice"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:ui/rank_acolyte"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:ui/rank_knight"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:ui/rank_sorcerer"},
+	{"predicate": {"custom_model_data":5}, "model": "lambda:ui/rank_overlord"},
+	{"predicate": {"custom_model_data":6}, "model": "lambda:ui/rank_infernal"}
+]
+}

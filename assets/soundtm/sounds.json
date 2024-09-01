@@ -1,0 +1,23 @@
+{
+    "steam_achievement": {
+      "sounds": [
+        "soundtm:steam_achievement"
+      ]
+    },
+
+    "lumine": {
+        "sounds": [
+          "soundtm:lumine"
+        ]
+      },
+    "mail": {
+        "sounds": [
+          "soundtm:mail"
+        ]
+      },
+    "mario": {
+        "sounds": [
+          "soundtm:mario"
+        ]
+      }
+}

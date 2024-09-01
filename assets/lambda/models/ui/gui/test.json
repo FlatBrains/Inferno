@@ -1,0 +1,6 @@
+{
+	"parent": "lambda:ui/gui_parent",
+	"textures": {
+		"0": "lambda:item/ui/gui/obama"
+	}
+}

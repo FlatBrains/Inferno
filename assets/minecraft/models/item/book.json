@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/book"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:misc/dante_inferno"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:misc/book_of_speed"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:misc/book_cover"}
+]
+}

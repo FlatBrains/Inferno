@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/netherite_pickaxe"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:tools/pickaxe/mechanical"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:tools/drill/tungsten_drill"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:tools/drill/refined_tungsten_drill"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:tools/drill/perfected_tungsten_drill"}
+]
+}

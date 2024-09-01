@@ -1,0 +1,53 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/apple.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["🍎"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lambda:unicode/trophy.png",
+			"ascent": 14,
+			"height": 16,
+			"chars": ["🏆"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lambda:unicode/nerd.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": ["🤓"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lambda:unicode/dan.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\uE003"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lambda:unicode/titles/limbo.png",
+			"ascent": 48,
+			"height": 128,
+			"chars": ["\uE000\uE001"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lambda:unicode/titles/limbo.png",
+			"ascent": 80,
+			"height": 92,
+			"chars": ["\uE004\uE005"]
+		},
+		{
+            		"type": "ttf",
+            		"file": "minecraft:negative_spaces.ttf",
+            		"shift": [0.0, 0.0],
+            		"size": 10.0,
+            		"oversample": 1.0
+        	}
+]
+}

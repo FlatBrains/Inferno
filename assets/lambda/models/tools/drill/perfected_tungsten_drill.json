@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "lambda:item/tools/drill/perfected_tungsten_drill"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [0, -0.75, -6.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-135, -90, 0],
+			"translation": [0, -0.75, -6.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, -90, 15],
+			"translation": [-0.5, 3, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-110, -90, 15],
+			"translation": [-0.5, 3, 0]
+		},
+		"ground": {
+			"translation": [0, 5.25, 0]
+		},
+		"gui": {
+			"translation": [-0.5, 0.5, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, -90]
+		}
+	}
+}

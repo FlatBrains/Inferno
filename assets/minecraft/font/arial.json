@@ -1,0 +1,19 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0
+            }
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:font.ttf",
+			"shift": [0, 0.5],
+			"size": 11.0,
+			"oversample": 6.0,
+			"skip": ""
+        }
+    ]
+}

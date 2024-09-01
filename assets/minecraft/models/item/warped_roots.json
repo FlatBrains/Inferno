@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "block/warped_roots"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:materials/limbo/twisted_twig"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:materials/limbo/c_twisted_twig"}
+]
+}

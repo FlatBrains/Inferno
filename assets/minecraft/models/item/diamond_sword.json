@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/diamond_sword"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:knife/knife_of_doom"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:knife/the_beginning_and_the_end"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:sword/freedomsworn"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:sword/primordial_jade_cutter"},
+	{"predicate": {"custom_model_data":5}, "model": "lambda:sword/mistsplitter_reforged"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:sword/diamond_sword"}
+	
+]
+}

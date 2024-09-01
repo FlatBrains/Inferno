@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/sea_pickle"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:entities/cancerous_rodent"}
+]
+}

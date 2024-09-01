@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "lambda:blocks/plushies/slim",
+	"textures": {
+		"particle": "lambda:item/skins/nominosity"
+	}
+}

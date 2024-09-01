@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "block/tripwire_hook"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:item/key/green"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:item/key/blue"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:item/key/purple"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:item/key/red"},
+	{"predicate": {"custom_model_data":5}, "model": "lambda:item/key/yellow"}
+]
+}

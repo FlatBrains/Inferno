@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/nether_star"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:material/glimmer"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:material/eternal_shine"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:misc/catalyst"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:materials/misc/aether"},
+	{"predicate": {"custom_model_data":5}, "model": "lambda:materials/misc/c_aether"}
+]
+}

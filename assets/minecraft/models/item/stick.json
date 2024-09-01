@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "lambda:item/material/twisting_stick"
+  },
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:sword/pointy_stick"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:material/vermillion_stick"}
+
+]
+}

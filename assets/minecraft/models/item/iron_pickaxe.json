@@ -1,0 +1,20 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/iron_pickaxe"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:tools/pickaxe/limbo/illumeon"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:tools/pickaxe/limbo/psykronite"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:tools/pickaxe/limbo/ethereon"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:tools/pickaxe/limbo/mechanical"},
+
+	{"predicate": {"custom_model_data":5},  "model": "lambda:tools/pickaxe/lust/mimetite"},
+	{"predicate": {"custom_model_data":6},  "model": "lambda:tools/pickaxe/lust/stibiconite"},
+	{"predicate": {"custom_model_data":7},  "model": "lambda:tools/pickaxe/lust/alabandite"},
+	{"predicate": {"custom_model_data":8},  "model": "lambda:tools/pickaxe/lust/jarosite"},
+	{"predicate": {"custom_model_data":9},  "model": "lambda:tools/pickaxe/lust/galena"},
+	{"predicate": {"custom_model_data":10}, "model": "lambda:tools/pickaxe/lust/cinnabar"},
+	{"predicate": {"custom_model_data":11}, "model": "lambda:tools/pickaxe/lust/orpiment"}
+]
+}

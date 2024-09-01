@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_pickaxe"
+  },
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:tools/pickaxe/limbo/phantasmium"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:tools/pickaxe/limbo/monochrit"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:tools/pickaxe/limbo/prismite"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:tools/pickaxe/limbo/everstone"}
+
+]
+}

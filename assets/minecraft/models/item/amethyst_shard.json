@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/amethyst_shard"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:materials/limbo/ethereon"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:materials/limbo/c_ethereon"}
+]
+}

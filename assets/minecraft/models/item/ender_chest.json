@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/chest",
+	"textures": {
+		"layer0": "block/ender_chest"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:ui/ender_chest"}
+]
+}

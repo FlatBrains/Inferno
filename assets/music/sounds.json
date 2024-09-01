@@ -1,0 +1,27 @@
+{
+"theme_of_cancer": {
+      "sounds": [
+        "music:theme_of_cancer"
+      ]
+    },
+"deep_blue": {
+      "sounds": [
+        "music:deep_blue"
+      ]
+    },
+"clair_de_lune": {
+      "sounds": [
+        "music:clair_de_lune"
+      ]
+    },
+"after_hours": {
+      "sounds": [
+        "music:after_hours"
+      ]
+    },
+"robot_sleep": {
+      "sounds": [
+        "music:robot_sleep"
+      ]
+    }
+}

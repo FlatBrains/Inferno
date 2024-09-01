@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:block/blast_furnace",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "lambda:accessory/automatized_condenser/limbo"},
+		{"predicate": {"custom_model_data":2}, "model": "lambda:accessory/automatized_condenser/lust"},
+		{"predicate": {"custom_model_data":3}, "model": "lambda:accessory/automatized_condenser/gluttony"},
+		{"predicate": {"custom_model_data":4}, "model": "lambda:accessory/automatized_condenser/greed"},
+		{"predicate": {"custom_model_data":5}, "model": "lambda:accessory/automatized_condenser/wrath"},
+		{"predicate": {"custom_model_data":6}, "model": "lambda:accessory/automatized_condenser/heresy"},
+		{"predicate": {"custom_model_data":7}, "model": "lambda:accessory/automatized_condenser/violence"},
+		{"predicate": {"custom_model_data":8}, "model": "lambda:accessory/automatized_condenser/fraud"},
+		{"predicate": {"custom_model_data":9}, "model": "lambda:accessory/automatized_condenser/sloth"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/redstone"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:ui/credit"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:materials/lust/cinnabar"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:materials/lust/c_cinnabar"}
+]
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/diamond"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:titles/limbo"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:material/stardust/1"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:material/stardust/2"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:material/stardust/3"},
+	{"predicate": {"custom_model_data":5}, "model": "lambda:material/stardust/4"}
+]
+}

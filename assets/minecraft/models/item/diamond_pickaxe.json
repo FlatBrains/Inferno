@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/diamond_pickaxe"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:pickaxe/lapis"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:pickaxe/emerald"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:pickaxe/jade"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:pickaxe/mechanical"}
+
+]
+}

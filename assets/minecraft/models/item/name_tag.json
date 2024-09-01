@@ -1,0 +1,17 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/name_tag"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:tickets/ticket_limbo"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:tickets/ticket_lust"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:tickets/ticket_gluttony"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:tickets/ticket_greed"},
+	{"predicate": {"custom_model_data":5}, "model": "lambda:tickets/ticket_wrath"},
+	{"predicate": {"custom_model_data":6}, "model": "lambda:tickets/ticket_heresy"},
+	{"predicate": {"custom_model_data":7}, "model": "lambda:tickets/ticket_violence"},
+	{"predicate": {"custom_model_data":8}, "model": "lambda:tickets/ticket_fraud"},
+	{"predicate": {"custom_model_data":9}, "model": "lambda:tickets/ticket_sloth"}
+]
+}

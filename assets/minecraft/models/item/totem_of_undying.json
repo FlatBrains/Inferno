@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/totem_of_undying"
+  },
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:blocks/plushies/flamingo"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:blocks/plushies/nominosity"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:blocks/plushies/stitch"},
+	{"predicate": {"custom_model_data":4}, "model": "lambda:blocks/plushies/technoblade"},
+	{"predicate": {"custom_model_data":5}, "model": "lambda:blocks/plushies/clown"},
+	{"predicate": {"custom_model_data":6}, "model": "lambda:blocks/plushies/akuma"}
+]
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/quartz"
+},
+"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "lambda:material/drill_finish"}
+]
+}
