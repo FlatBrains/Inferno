@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "lambda:item/accessory/uncumbering_stone"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, 1.5, 0],
+			"scale": [1, 1.1875, 1]
+		}
+
+	}
+}
