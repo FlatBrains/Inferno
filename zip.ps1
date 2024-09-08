@@ -11,7 +11,7 @@ git push -u origin main
 
 $hash = (Get-FileHash -a SHA1 pack.zip).Hash.ToLower()
 
-echo.
+echo ""
 echo "pack.zip's sha1 hash:"
 echo $hash
 $hash | clip
