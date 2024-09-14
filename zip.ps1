@@ -1,7 +1,7 @@
 cd $PSScriptRoot
 
 rm pack.zip
-Compress-Archive assets, pack.mcmeta, pack.png pack.zip
+Compress-Archive assets, pack.mcmeta, pack.png pack.zip -CompressionLevel NoCompression
 
 git add .
 git status -s
