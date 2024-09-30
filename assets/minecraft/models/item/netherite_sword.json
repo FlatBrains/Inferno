@@ -4,6 +4,8 @@
 		"layer0": "minecraft:item/netherite_sword"
 },
 "overrides": [
-	{"predicate": {"custom_model_data":1}, "model": "lambda:sword/netherite_sword"}
+	{"predicate": {"custom_model_data":1}, "model": "lambda:sword/netherite_sword"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:sword/blade_of_broken_dreams"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:sword/desolate_dagger"}
 ]
 }

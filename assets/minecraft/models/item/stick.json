@@ -5,7 +5,8 @@
   },
 "overrides": [
 	{"predicate": {"custom_model_data":1}, "model": "lambda:sword/pointy_stick"},
-	{"predicate": {"custom_model_data":2}, "model": "lambda:material/vermillion_stick"}
+	{"predicate": {"custom_model_data":2}, "model": "lambda:material/vermillion_stick"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:wand/budget_jinx"}
 
 ]
 }

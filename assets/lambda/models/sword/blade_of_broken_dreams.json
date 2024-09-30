@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "lambda:item/sword/blade_of_broken_dreams"
+	}
+}

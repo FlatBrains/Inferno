@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "lambda:item/sword/desolate_dagger",
+		"particle": "lambda:item/sword/desolate_dagger"
+	}
+}

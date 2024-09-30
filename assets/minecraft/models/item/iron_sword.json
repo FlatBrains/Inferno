@@ -10,6 +10,7 @@
 	{"predicate": {"custom_model_data":4}, "model": "lambda:sword/sword_of_souls_2"},
 	{"predicate": {"custom_model_data":5}, "model": "lambda:sword/sword_of_souls_3"},
 	{"predicate": {"custom_model_data":6}, "model": "lambda:sword/floral_blade"},
-	{"predicate": {"custom_model_data":7}, "model": "lambda:sword/tungsten_sword"}
+	{"predicate": {"custom_model_data":7}, "model": "lambda:sword/tungsten_sword"},
+	{"predicate": {"custom_model_data":8}, "model": "lambda:sword/walmart_katana"}
 ]
 }

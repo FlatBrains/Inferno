@@ -5,6 +5,8 @@
 		"layer1": "item/firework_star_overlay"
 },
 "overrides": [
-	{"predicate": {"custom_model_data":1}, "model": "lambda:item/eclipse"}
+	{"predicate": {"custom_model_data":1}, "model": "lambda:misc/gambling_frag_1"},
+	{"predicate": {"custom_model_data":2}, "model": "lambda:misc/gambling_frag_2"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:misc/gambling_frag_3"}
 ]
 }

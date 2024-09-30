@@ -5,6 +5,7 @@
 },
 "overrides": [
 	{"predicate": {"custom_model_data":1}, "model": "lambda:material/phoenix_feather"},
-	{"predicate": {"custom_model_data":2}, "model": "lambda:tools/hellfire_wing"}
+	{"predicate": {"custom_model_data":2}, "model": "lambda:tools/hellfire_wing"},
+	{"predicate": {"custom_model_data":3}, "model": "lambda:wand/phoenixs_wrath"}
 ]
 }

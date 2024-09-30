@@ -9,7 +9,7 @@
 	{"predicate": {"custom_model_data":3}, "model": "lambda:sword/freedomsworn"},
 	{"predicate": {"custom_model_data":4}, "model": "lambda:sword/primordial_jade_cutter"},
 	{"predicate": {"custom_model_data":5}, "model": "lambda:sword/mistsplitter_reforged"},
-	{"predicate": {"custom_model_data":4}, "model": "lambda:sword/diamond_sword"}
+	{"predicate": {"custom_model_data":6}, "model": "lambda:sword/gabriel/justice"}
 	
 ]
 }
